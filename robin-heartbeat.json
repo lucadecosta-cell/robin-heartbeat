@@ -1,9 +1,4 @@
 {
   "rebalance": null,
-  "pulse": null,
-  "test": {
-    "date": "2026-09-12",
-    "status": "ok",
-    "at": "2026-09-12T02:27:23Z"
-  }
+  "pulse": null
 }
