@@ -1,4 +1,8 @@
 {
-  "rebalance": null,
+  "rebalance": {
+    "date": "2026-10-08",
+    "status": "ok",
+    "at": "2026-10-08T15:10:58Z"
+  },
   "pulse": null
 }
